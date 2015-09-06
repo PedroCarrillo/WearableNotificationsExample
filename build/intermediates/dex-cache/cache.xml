@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\exploded-aar\com.android.support\gridlayout-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1618fd467fb5971c394741e8976ededb97aaee0a">
+        <dex dex="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\pre-dexed\debug\classes-51369a6511a96354ec5a594c68d06f1417df5b9d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Pedro\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-470f61499cf15112b4d6fed7211a97aac5b4170f.jar" />
+    </item>
+    <item
+        jar="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-c85005df3dfc32a7e7bbe4bd7673c930c5cbc14a.jar" />
+    </item>
+    <item
+        jar="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\pre-dexed\debug\classes-d7973819caf6c27ed6a4e61b1f857c46e36e8bd2.jar" />
+    </item>
+    <item
+        jar="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\PedroCarrillo\projects\WearableNotifications\Application\build\intermediates\pre-dexed\debug\classes-80982397abca34197e6cf54c5279d864164b41f3.jar" />
+    </item>
+
+</items>
